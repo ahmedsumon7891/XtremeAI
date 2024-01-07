@@ -1,0 +1,104 @@
+2023-12-06 05:01:10,581 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.58:8080
+2023-12-06 05:01:10,610 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-06 05:01:10,693 - INFO - 172.31.196.1 - - [06/Dec/2023 05:01:10] "[33mOPTIONS * HTTP/1.1[0m" 404 -
+2023-12-06 05:01:10,815 - INFO - 172.31.196.1 - - [06/Dec/2023 05:01:10] "HEAD / HTTP/1.1" 200 -
+2023-12-06 05:05:54,722 - INFO - 172.31.196.1 - - [06/Dec/2023 05:05:54] "HEAD / HTTP/1.1" 200 -
+2023-12-06 05:10:54,597 - INFO - 172.31.196.1 - - [06/Dec/2023 05:10:54] "HEAD / HTTP/1.1" 200 -
+2023-12-06 05:15:54,608 - INFO - 172.31.196.1 - - [06/Dec/2023 05:15:54] "HEAD / HTTP/1.1" 200 -
+2023-12-06 05:20:54,830 - INFO - 172.31.196.1 - - [06/Dec/2023 05:20:54] "HEAD / HTTP/1.1" 200 -
+2023-12-06 05:25:54,980 - INFO - 172.31.196.1 - - [06/Dec/2023 05:25:54] "HEAD / HTTP/1.1" 200 -
+2023-12-06 05:31:15,172 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.187:8080
+2023-12-06 05:31:15,173 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-06 05:31:16,012 - INFO - 172.31.196.1 - - [06/Dec/2023 05:31:16] "[33mOPTIONS * HTTP/1.1[0m" 404 -
+2023-12-06 05:31:16,095 - INFO - 172.31.196.1 - - [06/Dec/2023 05:31:16] "HEAD / HTTP/1.1" 200 -
+2023-12-06 05:37:22,314 - INFO - 172.31.196.1 - - [06/Dec/2023 05:37:22] "HEAD / HTTP/1.1" 200 -
+2023-12-06 05:42:21,676 - INFO - 172.31.196.1 - - [06/Dec/2023 05:42:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 05:47:21,814 - INFO - 172.31.196.1 - - [06/Dec/2023 05:47:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 05:52:21,847 - INFO - 172.31.196.1 - - [06/Dec/2023 05:52:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 05:57:21,823 - INFO - 172.31.196.1 - - [06/Dec/2023 05:57:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 06:02:21,848 - INFO - 172.31.196.1 - - [06/Dec/2023 06:02:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 06:07:21,872 - INFO - 172.31.196.1 - - [06/Dec/2023 06:07:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 06:12:21,886 - INFO - 172.31.196.1 - - [06/Dec/2023 06:12:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 06:17:21,748 - INFO - 172.31.196.1 - - [06/Dec/2023 06:17:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 06:22:21,852 - INFO - 172.31.196.1 - - [06/Dec/2023 06:22:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 06:27:24,253 - INFO - 172.31.196.1 - - [06/Dec/2023 06:27:24] "HEAD / HTTP/1.1" 200 -
+2023-12-06 06:32:21,828 - INFO - 172.31.196.1 - - [06/Dec/2023 06:32:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 06:37:21,759 - INFO - 172.31.196.1 - - [06/Dec/2023 06:37:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 06:42:21,786 - INFO - 172.31.196.1 - - [06/Dec/2023 06:42:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 06:47:21,889 - INFO - 172.31.196.1 - - [06/Dec/2023 06:47:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 06:52:21,863 - INFO - 172.31.196.1 - - [06/Dec/2023 06:52:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 06:57:21,855 - INFO - 172.31.196.1 - - [06/Dec/2023 06:57:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 07:02:21,841 - INFO - 172.31.196.1 - - [06/Dec/2023 07:02:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 07:07:21,814 - INFO - 172.31.196.1 - - [06/Dec/2023 07:07:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 07:12:21,770 - INFO - 172.31.196.1 - - [06/Dec/2023 07:12:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 07:17:21,819 - INFO - 172.31.196.1 - - [06/Dec/2023 07:17:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 07:22:21,881 - INFO - 172.31.196.1 - - [06/Dec/2023 07:22:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 07:27:21,831 - INFO - 172.31.196.1 - - [06/Dec/2023 07:27:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 07:32:21,878 - INFO - 172.31.196.1 - - [06/Dec/2023 07:32:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 07:37:21,852 - INFO - 172.31.196.1 - - [06/Dec/2023 07:37:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 07:42:21,884 - INFO - 172.31.196.1 - - [06/Dec/2023 07:42:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 07:47:21,847 - INFO - 172.31.196.1 - - [06/Dec/2023 07:47:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 07:52:21,780 - INFO - 172.31.196.1 - - [06/Dec/2023 07:52:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 07:57:21,898 - INFO - 172.31.196.1 - - [06/Dec/2023 07:57:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 08:02:21,811 - INFO - 172.31.196.1 - - [06/Dec/2023 08:02:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 08:07:21,892 - INFO - 172.31.196.1 - - [06/Dec/2023 08:07:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 08:12:21,827 - INFO - 172.31.196.1 - - [06/Dec/2023 08:12:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 08:17:21,769 - INFO - 172.31.196.1 - - [06/Dec/2023 08:17:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 08:22:21,889 - INFO - 172.31.196.1 - - [06/Dec/2023 08:22:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 08:27:21,844 - INFO - 172.31.196.1 - - [06/Dec/2023 08:27:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 08:32:22,257 - INFO - 172.31.196.1 - - [06/Dec/2023 08:32:22] "HEAD / HTTP/1.1" 200 -
+2023-12-06 08:37:21,808 - INFO - 172.31.196.1 - - [06/Dec/2023 08:37:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 08:42:21,986 - INFO - 172.31.196.1 - - [06/Dec/2023 08:42:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 08:47:22,873 - INFO - 172.31.196.1 - - [06/Dec/2023 08:47:22] "HEAD / HTTP/1.1" 200 -
+2023-12-06 08:52:21,847 - INFO - 172.31.196.1 - - [06/Dec/2023 08:52:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 08:57:21,861 - INFO - 172.31.196.1 - - [06/Dec/2023 08:57:21] "HEAD / HTTP/1.1" 200 -
+2023-12-06 08:59:51,473 - ERROR - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 286
+2023-12-06 08:59:51,482 - ERROR - Exception traceback:
+Traceback (most recent call last):
+  File "/home/runner/Xtreme-AI/.pythonlibs/lib/python3.10/site-packages/telebot/__init__.py", line 1074, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "/home/runner/Xtreme-AI/.pythonlibs/lib/python3.10/site-packages/telebot/util.py", line 147, in raise_exceptions
+    raise self.exception_info
+  File "/home/runner/Xtreme-AI/.pythonlibs/lib/python3.10/site-packages/telebot/util.py", line 90, in run
+    task(*args, **kwargs)
+  File "/home/runner/Xtreme-AI/.pythonlibs/lib/python3.10/site-packages/telebot/__init__.py", line 6801, in _run_middlewares_and_handler
+    result = handler['function'](message)
+  File "/home/runner/Xtreme-AI/main.py", line 450, in ip_info
+    bot.send_photo(user_id, logo_image, caption=result, parse_mode="Markdown", reply_markup=create_google_maps_button(response['lat'], response['lon']))
+  File "/home/runner/Xtreme-AI/.pythonlibs/lib/python3.10/site-packages/telebot/__init__.py", line 1825, in send_photo
+    apihelper.send_photo(
+  File "/home/runner/Xtreme-AI/.pythonlibs/lib/python3.10/site-packages/telebot/apihelper.py", line 494, in send_photo
+    return _make_request(token, method_url, params=payload, files=files, method='post')
+  File "/home/runner/Xtreme-AI/.pythonlibs/lib/python3.10/site-packages/telebot/apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "/home/runner/Xtreme-AI/.pythonlibs/lib/python3.10/site-packages/telebot/apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 286
+
+2023-12-06 09:02:44,418 - INFO - 172.31.196.1 - - [06/Dec/2023 09:02:44] "GET / HTTP/1.1" 200 -
+2023-12-06 09:03:57,453 - INFO - 172.31.196.1 - - [06/Dec/2023 09:03:57] "HEAD / HTTP/1.1" 200 -
+2023-12-06 09:04:32,550 - INFO - 172.31.196.1 - - [06/Dec/2023 09:04:32] "GET / HTTP/1.1" 200 -
+2023-12-06 09:06:18,544 - INFO - 172.31.196.1 - - [06/Dec/2023 09:06:18] "GET / HTTP/1.1" 200 -
+2023-12-06 09:08:56,752 - INFO - 172.31.196.1 - - [06/Dec/2023 09:08:56] "HEAD / HTTP/1.1" 200 -
+2023-12-06 09:13:56,710 - INFO - 172.31.196.1 - - [06/Dec/2023 09:13:56] "HEAD / HTTP/1.1" 200 -
+2023-12-06 09:18:56,726 - INFO - 172.31.196.1 - - [06/Dec/2023 09:18:56] "HEAD / HTTP/1.1" 200 -
+2023-12-06 09:23:21,148 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.187:8080
+2023-12-06 09:23:21,148 - INFO - [33mPress CTRL+C to quit[0m
+2023-12-06 09:23:23,090 - INFO - 172.31.196.1 - - [06/Dec/2023 09:23:23] "GET / HTTP/1.1" 200 -
+2023-12-06 09:23:35,074 - INFO - 172.31.196.1 - - [06/Dec/2023 09:23:35] "GET / HTTP/1.1" 200 -
+2023-12-06 09:23:56,537 - INFO - 172.31.196.1 - - [06/Dec/2023 09:23:56] "HEAD / HTTP/1.1" 200 -
+2023-12-06 09:25:45,824 - INFO - 172.31.196.1 - - [06/Dec/2023 09:25:45] "GET / HTTP/1.1" 200 -
+2023-12-06 09:28:56,594 - INFO - 172.31.196.1 - - [06/Dec/2023 09:28:56] "HEAD / HTTP/1.1" 200 -
+2023-12-06 09:33:56,624 - INFO - 172.31.196.1 - - [06/Dec/2023 09:33:56] "HEAD / HTTP/1.1" 200 -
+2023-12-06 09:38:56,616 - INFO - 172.31.196.1 - - [06/Dec/2023 09:38:56] "HEAD / HTTP/1.1" 200 -
+2023-12-06 09:43:56,718 - INFO - 172.31.196.1 - - [06/Dec/2023 09:43:56] "HEAD / HTTP/1.1" 200 -
+2023-12-06 09:48:56,595 - INFO - 172.31.196.1 - - [06/Dec/2023 09:48:56] "HEAD / HTTP/1.1" 200 -
