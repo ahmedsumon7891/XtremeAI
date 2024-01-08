@@ -1,1 +1,10 @@
-telebot openai requests logging datetime os io sqlite3 json
+telebot
+openai
+requests
+logging
+datetime
+os
+io
+sqlite3
+json
+--upgrade pip
